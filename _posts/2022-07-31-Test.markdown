@@ -3,6 +3,8 @@ layout: post
 title: This is a new article
 author: User
 summary: Summary of the article
+date:   2022-07-30 23:21:41 +0200
+categories: jekyll update
 ---
 test git
 why not
